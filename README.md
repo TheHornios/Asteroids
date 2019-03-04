@@ -1,3 +1,3 @@
 # Asteroids
 Un juego una ilusión 
-<img src="fotoa.png"/></br>
+<img src="fotoa.PNG"/></br>
